@@ -5,7 +5,7 @@
 TEST_DATA='Here is text that is in a file'
 
 # Compile the program
-gcc -o copy pa1.c
+gcc -o copy main.c
 
 echo "Starting copy program tests..."
 
